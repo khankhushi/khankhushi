@@ -6,7 +6,7 @@
 ## 🔎 You can find me here 
 <code>
     <a href="https://www.linkedin.com/in/khushikhan/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"> LinkedIn</a></code>
-<code><a href="https://twitter.com/JustBeingKhushi" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"> Twitter</a></code>
+<code><a href="https://github.com/khankhushi/khankhushi" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"> Twitter</a></code>
 <br />
 <h2> </h2>
 Hi, I'm Khushi. I am a sophomore pursuing B.Tech (EI) from SGSITS, Indore. I am a coding enthusiast who is passionate about Web Designing. Learning new technologies excites me and I am always in awe of the changes it drives in the world. Currently trying my hands-on front-end web technologies, exploring things driven by curiosity to learn and then implementing them in my projects to add on some practical experience. Looking to collaborate on some front-end projects to sharpen my skills.
