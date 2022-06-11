@@ -24,7 +24,8 @@ Feel free to reach out at [khushikhan2810@gmail.com](mailto:khushikhan2810@gmail
 ## 📊 Github Summary
 
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khankhushi&theme=github_dark" alt="Contribution-graph"><p/>
-<span><p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khankhushi&theme=github_dark" alt="stats"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khankhushi&theme=github_dark" alt="toplanguage"><p/></span>
+<span><p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khankhushi&theme=github_dark" alt="stats">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khankhushi&theme=github_dark" alt="toplanguage"><p/></span>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=khankhushi&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=FF8F17&border=504E62&ring=3B82F6&dates=3B82F6&stroke=DDDDDD" alt="Streaks-graph"><p/>
 
 
