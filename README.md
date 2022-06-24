@@ -1,6 +1,8 @@
 
 ## Hi there, I'm [Khushi!](https://www.linkedin.com/in/khushikhan/) 👋
 
+
+
 💡  &nbsp;I have always been in awe of technology and how it can solve so many real world problems.\
 🎓 &nbsp;I'm a prefinal year undergrad at SGSITS, Indore.\
 🌱 &nbsp;Currently I am learning more about Software Development, Machine Learning and Data Structures and Algorithms.\
@@ -38,6 +40,6 @@
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=khankhushi&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=FF8F17&border=504E62&ring=3B82F6&dates=3B82F6&stroke=DDDDDD" alt="Streaks-graph"><p/>
 
 
-
+![](https://komarev.com/ghpvc/?username=khankhushi&label=Profile+Views&style=for-the-badge&color=3b82f6)
 
  
