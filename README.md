@@ -8,7 +8,7 @@
 🌱 &nbsp;Currently I am learning more about Software Development, Machine Learning and Data Structures and Algorithms.\
 ✍️ &nbsp;Outside of tech, I enjoy reading fiction and designing.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion about advancements in technology.\
-👩🏾‍💻 &nbsp;Everything else about me can be found at [my portfolio.](https://bit.ly/Khushi-Khan) \
+👩🏾‍💻 &nbsp;Everything else about me can be found at [my portfolio.](https://khankhushi.github.io/) \
 ✉️ &nbsp;You can contact me via email at [khushikhan2810@gmail.com](mailto:khushikhan2810@gmail.com)! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stacks
@@ -27,7 +27,7 @@
 <code>
     <a href="https://www.linkedin.com/in/khushikhan/" title="Khushi's linkedin"><img width="40" alt="Khushi's LinkedIn"src="https://user-images.githubusercontent.com/81975567/175559225-b4b11f66-e5f9-4c4d-b93c-ae0551606ab1.png"></a></code>
 <code><a href="https://twitter.com/maybekhushii" title="Khushi's Twitter"><img width="40" alt="Khushi's Twitter"src="https://user-images.githubusercontent.com/81975567/175558969-524b17fe-499a-4604-b065-5d58c35ce96b.png"></a></code>
-<code><a href="https://bit.ly/Khushi-Khan" title="Khushi's Portfolio"><img width="40" alt="Khushi's Portfolio" src="https://user-images.githubusercontent.com/81975567/175559971-8edbc18d-a0ce-4da4-82e4-027cbc706cb8.png"></a></code>
+<code><a href="https://khankhushi.github.io/" title="Khushi's Portfolio"><img width="40" alt="Khushi's Portfolio" src="https://user-images.githubusercontent.com/81975567/175559971-8edbc18d-a0ce-4da4-82e4-027cbc706cb8.png"></a></code>
 <!-- <code><a href="" title="Khushi's Leetcode"><img width="40" alt="Khushi's Leetcode" src="https://user-images.githubusercontent.com/81975567/175561745-511219dc-a1cf-4b3c-871d-3f41feb92dee.png"></a></code> -->
 <br />
 
