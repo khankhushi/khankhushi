@@ -2,14 +2,12 @@
 ## Hi there, I'm [Khushi!](https://www.linkedin.com/in/khushikhan/) 👋
 
 
-
-💡  &nbsp;I have always been in awe of technology and how it can solve so many real world problems.\
 🎓 &nbsp;I'm a prefinal year undergrad at SGSITS, Indore.\
 🌱 &nbsp;Currently I am learning more about Software Development, Machine Learning and Data Structures and Algorithms.\
 ✍️ &nbsp;Outside of tech, I enjoy reading fiction and designing.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion about advancements in technology.\
-👩🏾‍💻 &nbsp;Everything else about me can be found at [my portfolio.](https://khankhushi.github.io/) \
-✉️ &nbsp;You can contact me via email at [khushikhan2810@gmail.com](mailto:khushikhan2810@gmail.com)! I'll try to respond as soon as I can.
+👩🏾‍💻 &nbsp;Everything else about me can be found at [khankhushi.github.io](https://khankhushi.github.io/) \
+✉️ &nbsp;You can contact me via email at [khushikhan2810@gmail.com](mailto:khushikhan2810@gmail.com)!
 
 ### 🛠 &nbsp;Tech Stacks
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFE873)&nbsp;
