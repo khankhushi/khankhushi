@@ -34,7 +34,7 @@
   
 ### 📊 Github Summary
 <span><p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khankhushi&theme=github_dark" alt="stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khankhushi&theme=github_dark&hide=HTML,CSS,SCSS" alt="toplanguage"><p/></span>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khankhushi&theme=github_dark&hide=HTML,CSS,SCSS" alt="toplanguage"><p/></span> -->
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com?user=khankhushi&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=FF8F17&border=504E62&ring=3B82F6&dates=3B82F6&stroke=DDDDDD" alt="Streaks-graph"><p/>
 
 
