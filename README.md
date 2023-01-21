@@ -32,9 +32,9 @@
 
  
 ### 📊 Github Summary
-<tr>
+<!-- <tr>
     <img src="https://github-readme-stats.vercel.app/api?username=khankhushi&theme=github_dark&show_icons=true"  display=block width=50% height=auto  alt="1">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khankhushi&theme=github_dark&layout=compact"  display=block width=50% height=auto  alt="2" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khankhushi&theme=github_dark&layout=compact"  display=block width=50% height=auto  alt="2" > -->
   </tr>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=khankhushi&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=FF8F17&border=504E62&ring=3B82F6&dates=3B82F6&stroke=DDDDDD" alt="Streaks-graph"><p/>
 
