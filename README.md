@@ -1,10 +1,11 @@
 
-## Hi there, I'm [Khushi!](https://www.linkedin.com/in/khushikhan/) 👋
+## Hi there, I'm [Khushi!](https://www.linkedin.com/in/khushikhan/) 👋 
+![](https://komarev.com/ghpvc/?username=khankhushi&label=Profile+Views&style=for-the-badge&color=3b82f6)
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" height="270" >
 
 
 🎓 &nbsp;I'm a prefinal year undergrad at SGSITS, Indore.\
 🌱 &nbsp;Currently I am learning more about Software Development, Machine Learning and Data Structures and Algorithms.\
-✍️ &nbsp;Outside of tech, I enjoy reading fiction and designing.\
 💬 &nbsp;Feel free to reach out to me about opportunities as **Software Developer**.\
 👩🏾‍💻 &nbsp;Everything else about me can be found at [khankhushi.github.io](https://khankhushi.github.io/) \
 ✉️ &nbsp;You can contact me via email at [khushikhan2810@gmail.com](mailto:khushikhan2810@gmail.com)!
@@ -21,7 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
  
-### 🔎 &nbsp;Find me around the web
+### 🔎 &nbsp;Reach out to me
 <p align="left">
     <a href="https://www.linkedin.com/in/khushikhan/" title="Khushi's linkedin"><img width="40" alt="Khushi's LinkedIn"src="https://user-images.githubusercontent.com/81975567/175559225-b4b11f66-e5f9-4c4d-b93c-ae0551606ab1.png"></a>
 <a href="https://twitter.com/maybekhushii" title="Khushi's Twitter"><img width="40" alt="Khushi's Twitter"src="https://user-images.githubusercontent.com/81975567/175558969-524b17fe-499a-4604-b065-5d58c35ce96b.png"></a>
@@ -39,6 +40,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=khankhushi&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=FF8F17&border=504E62&ring=3B82F6&dates=3B82F6&stroke=DDDDDD" alt="Streaks-graph"><p/>
 
 
-![](https://komarev.com/ghpvc/?username=khankhushi&label=Profile+Views&style=for-the-badge&color=3b82f6)
 
  
