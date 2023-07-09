@@ -1,44 +1,46 @@
 
 ## Hi there, I'm [Khushi!](https://www.linkedin.com/in/khushikhan/) 👋 
 ![](https://komarev.com/ghpvc/?username=khankhushi&label=Profile+Views&style=for-the-badge&color=3b82f6)
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" height="270" >
+<img align="right" alt="Coding" width="270" src="https://user-images.githubusercontent.com/81975567/213871187-5f4af020-4be1-4f17-baa2-0a0b3e2909c2.gif" height="208.278" >
 
 
-🎓 &nbsp;I'm a prefinal year undergrad at SGSITS, Indore.\
-🌱 &nbsp;Currently I am learning more about Software Development, Machine Learning and Data Structures and Algorithms.\
+🎓 &nbsp;I'm a final year undergrad at SGSITS, Indore.\
+🌱 &nbsp;Currently I am learning more about Software Development and Data Structures and Algorithms.\
 💬 &nbsp;Feel free to reach out to me about opportunities as **Software Developer**.\
-👩🏾‍💻 &nbsp;Everything else about me can be found at [khankhushi.github.io](https://khankhushi.github.io/) \
+👩🏾‍💻 &nbsp;Everything else about me can be found [here](https://khankhushi.github.io/) \
 ✉️ &nbsp;You can contact me via email at [khushikhan2810@gmail.com](mailto:khushikhan2810@gmail.com)!
 
 ### 🛠 &nbsp;Tech Stacks
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=FFE873)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=white)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<p>
+<img width="35" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img width="35" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img width="35" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="35" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img width="35" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />  
+<img width="35" alt="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="35" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="35" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img width="35" alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+ <img width="35" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img width="35" alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img width="35" alt="Visualstudio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img width="35" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p> 
 
- 
 ### 🔎 &nbsp;Reach out to me
 <p align="left">
-    <a href="https://www.linkedin.com/in/khushikhan/" title="Khushi's linkedin"><img width="40" alt="Khushi's LinkedIn"src="https://user-images.githubusercontent.com/81975567/175559225-b4b11f66-e5f9-4c4d-b93c-ae0551606ab1.png"></a>
-<a href="https://twitter.com/maybekhushii" title="Khushi's Twitter"><img width="40" alt="Khushi's Twitter"src="https://user-images.githubusercontent.com/81975567/175558969-524b17fe-499a-4604-b065-5d58c35ce96b.png"></a>
-<a href="https://khankhushi.github.io/" title="Khushi's Portfolio"><img width="40" alt="Khushi's Portfolio" src="https://user-images.githubusercontent.com/81975567/175559971-8edbc18d-a0ce-4da4-82e4-027cbc706cb8.png"></a>
-<!-- <a href="" title="Khushi's Leetcode"><img width="40" alt="Khushi's Leetcode" src="https://user-images.githubusercontent.com/81975567/175561745-511219dc-a1cf-4b3c-871d-3f41feb92dee.png"></a>-->
+    <a href="https://www.linkedin.com/in/khushikhan/" title="Khushi's linkedin"><img width="35" alt="Khushi's LinkedIn"src="https://user-images.githubusercontent.com/81975567/175559225-b4b11f66-e5f9-4c4d-b93c-ae0551606ab1.png"></a>
+<a href="https://twitter.com/maybekhushii" title="Khushi's Twitter"><img width="35" alt="Khushi's Twitter"src="https://user-images.githubusercontent.com/81975567/175558969-524b17fe-499a-4604-b065-5d58c35ce96b.png"></a>
+<a href="https://khankhushi.github.io/" title="Khushi's Portfolio"><img width="35" alt="Khushi's Portfolio" src="https://user-images.githubusercontent.com/81975567/175559971-8edbc18d-a0ce-4da4-82e4-027cbc706cb8.png"></a>
+<a href="https://leetcode.com/khushikhan/" title="Khushi's Leetcode"><img width="35" alt="Khushi's Leetcode" src="https://github.com/khankhushi/khankhushi/assets/81975567/143d17df-3ba3-49f7-8f34-19d205d0555c"></a>
  </p>
 
-
  
-### 📊 Github Summary
-<!-- <tr>
-    <img src="https://github-readme-stats.vercel.app/api?username=khankhushi&theme=github_dark&show_icons=true"  display=block width=50% height=auto  alt="1">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khankhushi&theme=github_dark&layout=compact"  display=block width=50% height=auto  alt="2" > -->
-  </tr>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=khankhushi&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=FF8F17&border=504E62&ring=3B82F6&dates=3B82F6&stroke=DDDDDD" alt="Streaks-graph"><p/>
+<details>
 
+<summary> <b>📊 Github Summary </b> </summary>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=khankhushi&theme=github-dark&date_format=j%20M%5B%20Y%5D&fire=FF8F17&border=504E62&ring=3B82F6&dates=3B82F6&stroke=DDDDDD" alt="Streaks-graph"><p/>
+</details>
 
 
  
