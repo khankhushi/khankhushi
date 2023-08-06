@@ -28,7 +28,7 @@
 <img width="35" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </p> 
 
-### 🔎 &nbsp;Reach out to me
+### 🔎 &nbsp;Around the web
 <p align="left">
     <a href="https://www.linkedin.com/in/khushikhan/" title="Khushi's linkedin"><img width="35" alt="Khushi's LinkedIn"src="https://user-images.githubusercontent.com/81975567/175559225-b4b11f66-e5f9-4c4d-b93c-ae0551606ab1.png"></a>
 <a href="https://twitter.com/maybekhushii" title="Khushi's Twitter"><img width="35" alt="Khushi's Twitter"src="https://user-images.githubusercontent.com/81975567/175558969-524b17fe-499a-4604-b065-5d58c35ce96b.png"></a>
