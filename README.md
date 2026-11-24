@@ -9,4 +9,4 @@ I specialize in Salesforce Data Cloud, audience segmentation, and building analy
 
 Outside of work, I'm found exploring design principles, learning about emerging technologies, and optimizing workflows. I document my experiments and insights on my personal website.
 
-[LinkedIn](https://www.linkedin.com/in/khushikhan/) • [GitHub](https://github.com/khankhushi) • [Email](mailto:khushikhan2810@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/khushikhan/) • [Email](mailto:khushikhan2810@gmail.com)
